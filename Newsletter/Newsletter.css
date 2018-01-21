@@ -14,6 +14,7 @@
   background-image: url('../Images/optimized/bent-creek-logo.png');
   background-repeat: no-repeat;
   background-size:35px;
+  background-position: left,center;
   width:100%;
   top:0;
   text-align: center;
@@ -21,6 +22,10 @@
   padding-left:0;
   padding-right:0;
   padding-bottom: 20px;
+}
+.topnav .currentn {
+  color:#1A691A;
+  text-decoration-color:#1A691A; 
 }
 body{
   font-family:Merriweather;
